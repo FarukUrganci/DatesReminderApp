@@ -1,1 +1,3 @@
 "# DatesReminderApp" 
+REACT 
+JAVASCRİPT
